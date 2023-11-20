@@ -356,7 +356,7 @@
                           aria-expanded="false"
                           aria-controls="faqBody1"
                         >
-                          What is Uevent <span class="plus-icon"></span>
+                          What is PandeyConnect? <span class="plus-icon"></span>
                         </button>
                       </div>
                       <div
@@ -366,12 +366,7 @@
                         data-bs-parent="#faqAccordion1"
                       >
                         <div class="accordion__body">
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Tempore in maiores dignissimos, aut cum unde
-                          officiis sed vero fuga enim voluptates nobis ea porro
-                          recusandae facere optio exercitationem perferendis id,
-                          beatae expedita libero, ullam error eveniet! Provident
-                          ipsa enim ab.
+                         PandeyConnect is a digital platform dedicated to preserving and celebrating the heritage of the Pandey community. It serves as an interactive archive, connecting past, present, and future generations through a curated collection of stories, traditions, and memories.
                         </div>
                       </div>
                     </div>
@@ -391,7 +386,7 @@
                           aria-expanded="true"
                           aria-controls="faqBody2"
                         >
-                          When we should choose Uevent?
+                        How can I join PandeyConnect?
                           <span class="plus-icon"></span>
                         </button>
                       </div>
@@ -402,12 +397,8 @@
                         data-bs-parent="#faqAccordion1"
                       >
                         <div class="accordion__body">
-                          Lorem ipsum dolor sit amet, consectetur adipisicing
-                          elit. Velit praesentium quod vero! Autem saepe
-                          inventore odit accusamus ad pariatur, sunt corrupti
-                          voluptas quam fugiat! Similique consequatur earum
-                          tempora error dolores in temporibus quas beatae, quo
-                          aperiam saepe vitae ipsa delectus?
+                          Membership is open to individuals with a connection to the Pandey community. 
+                          Simply visit our registration page, fill out the required information, and become part of our growing network.
                         </div>
                       </div>
                     </div>
@@ -427,7 +418,7 @@
                           aria-expanded="false"
                           aria-controls="faqBody3"
                         >
-                          How good is this event<span class="plus-icon"></span>
+                          What content is available on PandeyConnect?<span class="plus-icon"></span>
                         </button>
                       </div>
                       <div
@@ -437,12 +428,7 @@
                         data-bs-parent="#faqAccordion1"
                       >
                         <div class="accordion__body">
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Temporibus in dolores vero, deleniti
-                          necessitatibus sed nisi magni vitae fugit nemo nostrum
-                          sunt sapiente harum? Sequi eligendi, incidunt laborum
-                          optio odio voluptatibus molestiae dignissimos, quo
-                          excepturi omnis nulla culpa maxime tempora?
+                          PandeyConnect houses a diverse range of content, including family histories, cultural traditions, and personal narratives from the Pandey community. Our platform is designed to be a comprehensive repository of the collective experiences that make our community unique.
                         </div>
                       </div>
                     </div>
@@ -468,7 +454,7 @@
                           aria-expanded="false"
                           aria-controls="faqBody1-two"
                         >
-                          When is the official launch?
+                         Can I contribute to PandeyConnect?
                           <span class="plus-icon"></span>
                         </button>
                       </div>
@@ -479,12 +465,7 @@
                         data-bs-parent="#faqAccordion2"
                       >
                         <div class="accordion__body">
-                          Lorem ipsum dolor sit, amet consectetur adipisicing
-                          elit. Nemo autem ducimus exercitationem iste
-                          repellendus recusandae, tempora neque vero, commodi,
-                          iure aliquid. Aliquid mollitia ipsa nesciunt adipisci,
-                          veniam quis reprehenderit suscipit nulla nobis non
-                          similique ab deserunt! Ut quae itaque optio.
+                         Absolutely! We encourage active participation. Members can contribute by sharing their family stories, cultural practices, and any other content that adds to the richness of the PandeyConnect experience. Visit the "Contribute" section for more details.
                         </div>
                       </div>
                     </div>
@@ -504,7 +485,7 @@
                           aria-expanded="true"
                           aria-controls="faqBody2-two"
                         >
-                          What will the ticket price be?
+                          How is privacy and data security handled on PandeyConnect?
                           <span class="plus-icon"></span>
                         </button>
                       </div>
@@ -515,12 +496,7 @@
                         data-bs-parent="#faqAccordion2"
                       >
                         <div class="accordion__body">
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Neque quisquam eaque animi quia sunt. Porro aut
-                          perferendis nostrum accusamus. Aliquam omnis, et
-                          magnam saepe molestiae vitae maxime commodi repellat
-                          ipsam vero, delectus nulla ab. Ut quidem delectus
-                          tenetur nostrum veritatis!
+                         We take privacy seriously. All personal information is securely stored, and members have control over what they choose to share. Our platform adheres to strict data protection measures to ensure a safe and confidential environment for our community.
                         </div>
                       </div>
                     </div>
@@ -540,7 +516,7 @@
                           aria-expanded="false"
                           aria-controls="faqBody3-two"
                         >
-                          How does the raffle work?<span
+                          Is there a membership fee for PandeyConnect?<span
                             class="plus-icon"
                           ></span>
                         </button>
@@ -552,13 +528,7 @@
                         data-bs-parent="#faqAccordion2"
                       >
                         <div class="accordion__body">
-                          Lorem ipsum dolor sit amet consectetur adipisicing
-                          elit. Non aut reprehenderit repudiandae cupiditate
-                          iste, impedit excepturi eaque quod dolorum corrupti,
-                          consequuntur totam deserunt unde. Sint, inventore
-                          quaerat officia ipsa quo aliquid? Necessitatibus
-                          consequuntur perferendis illum, repellat
-                          exercitationem laboriosam quae voluptates?
+                         Currently, PandeyConnect is free to join. We believe in creating an accessible platform for all members of the Pandey community to connect and share their heritage.
                         </div>
                       </div>
                     </div>
